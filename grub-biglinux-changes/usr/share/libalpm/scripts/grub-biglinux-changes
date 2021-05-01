@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sed -i 's|${GRUB_DISTRIBUTOR} Linux|${GRUB_DISTRIBUTOR}|g' /etc/grub.d/10_linux
