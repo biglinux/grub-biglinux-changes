@@ -3,6 +3,7 @@ Type = Package
 Operation = Install
 Operation = Upgrade
 Target = grub
+Target = grub-biglinux-changes
 
 [Action]
 Description = Change grub configuration
